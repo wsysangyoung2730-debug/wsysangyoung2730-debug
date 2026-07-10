@@ -131,8 +131,8 @@ I connect problem discovery, service planning, prototyping, and implementation t
 
 <div align="center">
 
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=wsysangyoung2730-debug&show_icons=true&theme=algolia&hide_border=true&border_radius=10&rank_icon=github" alt="SangYoung Woo's GitHub Stats" />
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wsysangyoung2730-debug&layout=compact&theme=algolia&hide_border=true&border_radius=10" alt="Most Used Languages in public repositories" />
+  <img src="https://github-stats-extended.vercel.app/api?username=wsysangyoung2730-debug&show_icons=true&theme=algolia&hide_border=true&border_radius=10&rank_icon=github&line_height=20" alt="SangYoung Woo's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wsysangyoung2730-debug&layout=compact&theme=algolia&hide_border=true&border_radius=10" alt="Most Used Languages in public repositories" />
 
   <br />
   <br />
