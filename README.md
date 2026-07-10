@@ -7,7 +7,8 @@
 I connect problem discovery, service planning, prototyping, and implementation to turn user needs into working products.
 
 [![GitHub](https://img.shields.io/badge/GitHub-wsysangyoung2730--debug-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wsysangyoung2730-debug)
-<!-- Add a verified LinkedIn badge here when a public profile URL is available. -->
+<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SangYoung%20Woo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangyoung-woo-1537753b9/)
 
 </div>
 
@@ -66,6 +67,8 @@ I connect problem discovery, service planning, prototyping, and implementation t
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
@@ -153,7 +156,10 @@ I connect problem discovery, service planning, prototyping, and implementation t
   <a href="https://github.com/wsysangyoung2730-debug">
     <img src="https://img.shields.io/badge/GitHub-wsysangyoung2730--debug-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/sangyoung-woo-1537753b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-SangYoung%20Woo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:sangyoung2730@naver.com">
+    <img src="https://img.shields.io/badge/Email-sangyoung2730%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email SangYoung Woo" />
+  </a>
 </p>
-
-<!-- Add a verified LinkedIn URL here when available. -->
-<!-- Add a public email badge here only if the email is intentionally published. -->
