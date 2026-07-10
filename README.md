@@ -2,8 +2,6 @@
 
 # Hello, I'm Sangyoung Woo!
 
-<h2>SangYoung Woo</h2>
-
 ### Developer & Service Planner building thoughtful digital products.
 
 I connect problem discovery, service planning, prototyping, and implementation to turn user needs into working products.
