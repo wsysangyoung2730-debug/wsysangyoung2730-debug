@@ -133,13 +133,13 @@ I connect problem discovery, service planning, prototyping, and implementation t
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wsysangyoung2730-debug&show_icons=true&theme=algolia&hide_border=true&border_radius=10&rank_icon=github" alt="SangYoung Woo's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsysangyoung2730-debug&layout=compact&theme=algolia&hide_border=true&border_radius=10" alt="Most Used Languages in public repositories" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=wsysangyoung2730-debug&show_icons=true&theme=algolia&hide_border=true&border_radius=10&rank_icon=github" alt="SangYoung Woo's GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wsysangyoung2730-debug&layout=compact&theme=algolia&hide_border=true&border_radius=10" alt="Most Used Languages in public repositories" />
 
   <br />
   <br />
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=wsysangyoung2730-debug&theme=algolia&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=8&rank=-C,-B" alt="GitHub Profile Trophy for wsysangyoung2730-debug" />
+  <img width="100%" src="https://trophy.ryglcloud.net/?username=wsysangyoung2730-debug&theme=algolia&no-frame=true&no-bg=true&margin-w=5&margin-h=5&column=8&rank=-C,-B" alt="GitHub Profile Trophy for wsysangyoung2730-debug" />
 
 </div>
 
