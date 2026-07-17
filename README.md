@@ -16,11 +16,11 @@ I connect problem discovery, service planning, prototyping, and implementation t
 
 ## About Me
 
-- I study **Computer Science and Engineering** at **Kyungpook National University**.
-- I am currently participating in the **Apple Developer Academy @ POSTECH**.
-- I am interested in **iOS, watchOS, macOS, web development, data collection, and service planning**.
-- I enjoy defining user problems and turning ideas into usable prototypes and products.
-- I value practical execution, measurable results, and iteration over ideas that remain only as concepts.
+- **Education:** Studying **Computer Science and Engineering** at **Kyungpook National University**.
+- **Currently:** A Developer Academy Learner at **Apple Developer Academy @ POSTECH**.
+- **Interests:** **iOS, watchOS, macOS, web development, data collection, and service planning**.
+- **Product mindset:** A focus on clearly defining user problems and turning ideas into practical prototypes and products.
+- **Working style:** A preference for practical execution, measurable outcomes, and continuous iteration over ideas that remain conceptual.
 
 ---
 
